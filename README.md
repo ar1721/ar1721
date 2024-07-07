@@ -1,6 +1,6 @@
 
 <h1 align="center">
-<img src="/github-header-image%20(1).png">
+<img src="/1.jpg">
 </h1> 
 
 ### 💫 About Me:
