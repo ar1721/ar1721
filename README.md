@@ -41,7 +41,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saitarun994&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
-![](https://github-profile-trophy.vercel.app/?username=Saitarun994&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ar1721theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 # 🌟 Major Projects 
